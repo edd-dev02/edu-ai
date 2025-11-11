@@ -8,7 +8,6 @@ Aplicación web construida con **Vite**, **TailwindCSS** y el SDK de **OpenRoute
 
 ## 🖼️ Vista Desktop
 
-> *(Agrega aquí una captura de pantalla de la versión de escritorio de tu aplicación)*  
 > Ejemplo:  
 > ![Vista Desktop](./public/preview-desktop.png)
 
