@@ -2,6 +2,16 @@
 
 Aplicación web construida con **Vite**, **TailwindCSS** y el SDK de **OpenRouter**, que permite interactuar con distintos modelos de lenguaje (LLMs) y mostrar sus respuestas en tiempo real mediante `streamText`.
 
+> 🧒 *Curiosidad:* las respuestas del modelo están configuradas para expresarse como si fuera **un niño de 10 años**, lo que hace más entretenida la interacción.
+
+---
+
+## 🖼️ Vista Desktop
+
+> *(Agrega aquí una captura de pantalla de la versión de escritorio de tu aplicación)*  
+> Ejemplo:  
+> ![Vista Desktop](./public/preview-desktop.png)
+
 ---
 
 ## 🚀 Características
@@ -52,3 +62,24 @@ npm run dev
 npm run build
 ```
 El resultado estará en la carpeta `dist/`.
+
+---
+
+## 🎓 Créditos
+
+Este proyecto fue desarrollado gracias a una de las secciones del curso  
+[**JavaScript Moderno: Guía Definitiva + 10 Proyectos**](https://www.udemy.com/course/javascript-moderno-guia-definitiva-construye-10-proyectos/?couponCode=ACCAGE0923)  
+impartido por **Juan Pablo de la Torre Valdez**, como parte de la práctica sobre consumo de APIs y manejo de asincronía en JavaScript.
+
+---
+
+## 🧾 Licencia
+
+Este proyecto se distribuye bajo la licencia MIT.  
+Puedes usarlo, modificarlo y adaptarlo libremente.
+
+---
+
+### ✨ Autor
+
+Desarrollado por **Eduardo Sandoval**  
